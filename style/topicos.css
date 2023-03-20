@@ -15,11 +15,10 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 1em;
-    pad
 }
 
 .topico__item{
-   margin: 1em 0; 
+   margin: 1em 0;
 }
 
 .topico__link{
