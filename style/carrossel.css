@@ -76,3 +76,7 @@
 .descricao{
     margin-right: 1em;
 }
+
+.descricao__nota{
+    margin-bottom: 0.5em;
+}
