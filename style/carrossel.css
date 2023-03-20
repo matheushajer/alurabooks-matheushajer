@@ -31,6 +31,7 @@
 .card__botoes{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .botoes{
@@ -67,7 +68,7 @@
 
 .botoes__ancora{
     background-color: var(--cor-titulo);
-    padding: 1em 2.2em;
+    padding: 1em 2em;
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
@@ -78,5 +79,33 @@
 }
 
 .descricao__nota{
-    margin-bottom: 0.5em;
+    margin: 0.5em 0;
 }
+
+#like_lancamentos, #like_mais_vendidos{
+    display: none;
+}
+
+#like_lancamentos:checked + .icone > svg{
+    animation: preencher;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+#like_mais_vendidos:checked + .icone > svg{
+    animation: preencher;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes preencher{
+
+    0%{
+        fill: transparent;
+    }
+
+    100%{
+        fill: #002F52;
+    }
+}
+
