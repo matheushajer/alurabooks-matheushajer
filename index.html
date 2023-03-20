@@ -71,6 +71,32 @@
             <div class="swiper-button-prev"></div>
             <div class="swiper-button-next"></div>
         </div> 
+
+        <div class="card">
+            <!-- 1º linha-->
+            <div class="card__descricao">
+                <!-- 1º coluna-->
+                <div class="descricao">
+                    <h3 class="descricao__titulo">Talvez você também se interesse por...</h3>
+                    <h2 class="descricao__titulo-livro">Angular 11 e Firebase</h2>
+                    <p class="descricao__texto">Construindo uma aplicação integrada com a plataforma do Google.</p>
+                </div>    
+                    <!-- 2º coluna-->
+                    <img class="descricao__imagem" src="./assets/Angular.png" alt="logo do Angular">
+            </div>
+            <!-- 2º linha-->
+            <div class="card__botoes">
+                <!--  1º coluna-->
+                <ul class="botoes">
+                    <li class="botoes__item"><img src="./assets/Favoritos.svg" alt="icone dos favoritos"></li>
+                    <li class="botoes__item"><img src="./assets/Compras.svg" alt="icone da sacola de compras"></li>
+                </ul>
+                <!-- 2º coluna-->
+                <a class="botoes__ancora" href="#">Saiba mais</a>
+            </div>
+        </div>
+
+    </section>
         <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
         <script>
         const swiper = new Swiper('.swiper', {
@@ -80,7 +106,6 @@
                 el: '.swiper-pagination',
                 type: 'bullets',
             },
-          });</script>
-    </section>
+          });</script>  
 </body>
 </html>
