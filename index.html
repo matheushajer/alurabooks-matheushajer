@@ -105,11 +105,11 @@
                 <div class="swiper-slide"><img src="./assets/Portugol.png" alt="Livro sobre Portugol"></div>
                 <div class="swiper-slide"><img src="./assets/Acessibilidade.png" alt="Livro sobre acessibilidade"></div>
             </div>
-            <!-- If we need navigation buttons -->
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
+             <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev"><img src="./assets/botao_esquerda.png"></div>
+            <div class="swiper-button-next"><img src="./assets/botao_direita.png"></div>     
         </div> 
-
+       
         <!-- 1º Card-->
         <div class="card">
             <!-- 1º linha-->
@@ -168,8 +168,8 @@
                 <div class="swiper-slide"><img src="./assets/ApacheKafka.png" alt="Livro sobre apacheKafka"></div>
             </div>
             <!-- If we need navigation buttons -->
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"><img src="./assets/botao_esquerda.png"></div>
+            <div class="swiper-button-next"><img src="./assets/botao_direita.png"></div>
         </div> 
 
         <!-- 2º Card-->
@@ -262,6 +262,10 @@
             el: '.swiper-pagination',
             type: 'bullets',
         },
-    });</script>  
+        navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
+});</script>  
 </body>
 </html>
