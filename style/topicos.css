@@ -29,3 +29,18 @@
     padding: 1em;
     background-color: var(--cor-titulo);
 }
+
+@media screen and (min-width: 1024px) {
+    
+    .topico__titulo{
+        font-size: 1.5em;
+    }
+
+    .topico__link{
+        font-size: 1.5em;
+    }
+
+    .topico__item{
+        padding: .8em;
+    }
+}
