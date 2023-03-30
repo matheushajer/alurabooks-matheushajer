@@ -68,7 +68,7 @@
 
 .botoes__ancora{
     background-color: var(--cor-titulo);
-    padding: 1em 2em;
+    padding: 1em 2.2em;
     color: var(--branco);
     font-weight: 700;
     text-decoration: none;
