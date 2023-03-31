@@ -75,4 +75,4 @@ Curso voltado para o entendimento da responsividade quando vamos desenvolver um 
 
 ### Preview Desktop
 
-
+![Tab-AluraBooks (desktop)](https://user-images.githubusercontent.com/75273536/229127036-baaa5d16-62d8-4432-9bf7-f5a25ba9ec2f.gif)
