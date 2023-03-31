@@ -11,7 +11,7 @@ Curso voltado para o entendimento da responsividade quando vamos desenvolver um 
 | :label: Tecnologias | HTML, CSS, (tecnologias utilizadas)
 | :rocket: URL         | https://alurabooks-matheushajer.vercel.app/
 
-(por imagem aqui)
+![](https://user-images.githubusercontent.com/75273536/229125656-63266411-cfee-4ec4-829d-51596f92b32b.png#vitrinedev)
 
 ## Temas abordados durante o curso
 
@@ -72,3 +72,7 @@ Curso voltado para o entendimento da responsividade quando vamos desenvolver um 
 - O que é deploy;
 - Fazer deploy no Github Pages;
 - Abrir o projeto em outros dispositivos.
+
+### Preview Desktop
+
+
