@@ -8,7 +8,7 @@ Curso voltado para o entendimento da responsividade quando vamos desenvolver um 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **AluraBookss**
-| :label: Tecnologias | HTML, CSS, (tecnologias utilizadas)
+| :label: Tecnologias | HTML, CSS
 | :rocket: URL         | https://alurabooks-matheushajer.vercel.app/
 
 ![](https://user-images.githubusercontent.com/75273536/229125656-63266411-cfee-4ec4-829d-51596f92b32b.png#vitrinedev)
