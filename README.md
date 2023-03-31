@@ -73,6 +73,14 @@ Curso voltado para o entendimento da responsividade quando vamos desenvolver um 
 - Fazer deploy no Github Pages;
 - Abrir o projeto em outros dispositivos.
 
-### Preview Desktop
+### Preview Desktop (1728px)
 
 ![Tab-AluraBooks (desktop)](https://user-images.githubusercontent.com/75273536/229127036-baaa5d16-62d8-4432-9bf7-f5a25ba9ec2f.gif)
+
+### Preview Tablet (1028px)
+
+![Tab-AluraBooks (tablet)](https://user-images.githubusercontent.com/75273536/229127880-97547fc1-1d3b-4659-a7f5-022ab485740a.gif)
+
+### Preview Mobile (428px)
+
+![Tab-AluraBooks (mobile)](https://user-images.githubusercontent.com/75273536/229128321-c387e94f-31f8-4666-b886-d3e918161ab8.gif)
